@@ -1,0 +1,92 @@
+{
+  "id": "e0149383",
+  "cfgVersion": 1,
+  "name": "itsreallyloudinhere",
+  "files": {
+    "7e70da7e": {
+      "id": "7e70da7e",
+      "pid": "e0149383",
+      "name": "style.scss",
+      "input": "scss\\style.scss",
+      "customOutput": "assets\\css\\style.css",
+      "type": "Scss",
+      "config": {
+        "autoCompile": true,
+        "lineNumbers": false,
+        "unixNewlines": false,
+        "debug": true,
+        "compass": true,
+        "fullCompass": false,
+        "outputStyle": "expanded",
+        "compassConfigRb": false,
+        "autoprefixer": false,
+        "sourcemaps": false
+      }
+    }
+  },
+  "imports": {
+    "74bd2c29": {
+      "id": "74bd2c29",
+      "pid": "e0149383",
+      "path": "scss\\vendor\\_normalize.scss",
+      "parents": [
+        "7e70da7e"
+      ]
+    }
+  },
+  "images": {
+    "cf40fb79": {
+      "id": "cf40fb79",
+      "pid": "e0149383",
+      "path": "assets\\img\\favicon.png",
+      "size": 16813,
+      "name": "favicon.png",
+      "type": "Png",
+      "initialSize": 16813,
+      "status": "NOT_OPTIMIZED"
+    },
+    "fdd08c49": {
+      "id": "fdd08c49",
+      "pid": "e0149383",
+      "path": "assets\\img\\itsreallyloudinhere.png",
+      "size": 75941,
+      "name": "itsreallyloudinhere.png",
+      "type": "Png",
+      "initialSize": 75941,
+      "status": "NOT_OPTIMIZED"
+    }
+  },
+  "config": {
+    "watch": true,
+    "liveRefresh": true,
+    "liveRefreshDelay": 0,
+    "filterPatterns": "",
+    "useCustomServer": false,
+    "customServerUrl": "",
+    "cssPath": "css",
+    "jsPath": "js",
+    "htmlPath": "html",
+    "minJsPath": "min",
+    "htmlExtension": ".html",
+    "cssPathType": "REPLACE_TYPE",
+    "htmlPathType": "REPLACE_TYPE",
+    "jsPathType": "REPLACE_TYPE",
+    "minJsPathType": "RELATIVE_FILEDIR",
+    "htmlTypes": "jade, haml, slim, markdown, md",
+    "cssTypes": "less, sass, stylus, scss, styl",
+    "jsTypes": "coffee, coffeescript, coffeescripts, ls, livescript, livescripts",
+    "cssPreprocessorPath": "",
+    "htmlPreprocessorPath": "",
+    "jsPreprocessorPath": "",
+    "minJsPreprocessorPath": "",
+    "autoprefixerBrowsers": "",
+    "ftpHost": "",
+    "ftpPort": "21",
+    "ftpRemotePath": "",
+    "ftpIgnorePreprocessorFiles": true,
+    "ftpType": "FTP",
+    "ftpExcludePatterns": "",
+    "ftpPassword": "",
+    "ftpUsername": ""
+  }
+}
