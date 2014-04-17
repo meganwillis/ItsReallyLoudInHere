@@ -9,3 +9,16 @@
     $IMPORTS
 \*------------------------------------*/
 @import "vendor/normalize";
+
+@import "global/variables";
+@import "global/icons";
+@import "global/layout";
+@import "global/header";
+
+.visuallyhidden { 
+  position: absolute; 
+  overflow: hidden; 
+  clip: rect(0 0 0 0); 
+  height: 1px; width: 1px; 
+  margin: -1px; padding: 0; border: 0; 
+}

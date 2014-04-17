@@ -22,6 +22,20 @@
         "autoprefixer": false,
         "sourcemaps": false
       }
+    },
+    "b3139ae7": {
+      "id": "b3139ae7",
+      "pid": "e0149383",
+      "name": "script.js",
+      "input": "assets\\js\\script.js",
+      "customOutput": false,
+      "type": "Js",
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true,
+        "sourcemaps": false
+      }
     }
   },
   "imports": {
@@ -29,6 +43,38 @@
       "id": "74bd2c29",
       "pid": "e0149383",
       "path": "scss\\vendor\\_normalize.scss",
+      "parents": [
+        "7e70da7e"
+      ]
+    },
+    "b40182d4": {
+      "id": "b40182d4",
+      "pid": "e0149383",
+      "path": "scss\\global\\_variables.scss",
+      "parents": [
+        "7e70da7e"
+      ]
+    },
+    "f5f4c179": {
+      "id": "f5f4c179",
+      "pid": "e0149383",
+      "path": "scss\\global\\_layout.scss",
+      "parents": [
+        "7e70da7e"
+      ]
+    },
+    "fa7da4f6": {
+      "id": "fa7da4f6",
+      "pid": "e0149383",
+      "path": "scss\\global\\_header.scss",
+      "parents": [
+        "7e70da7e"
+      ]
+    },
+    "1a977b4e": {
+      "id": "1a977b4e",
+      "pid": "e0149383",
+      "path": "scss\\global\\_icons.scss",
       "parents": [
         "7e70da7e"
       ]
