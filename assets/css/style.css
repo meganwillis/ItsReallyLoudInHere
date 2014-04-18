@@ -11,7 +11,6 @@
 /**
  * Correct `block` display not defined in IE 8/9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\0000311}}
 article,
 aside,
 details,
@@ -30,7 +29,6 @@ summary {
 /**
  * Correct `inline-block` display not defined in IE 8/9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\0000330}}
 audio,
 canvas,
 video {
@@ -41,7 +39,6 @@ video {
  * Prevent modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\0000341}}
 audio:not([controls]) {
   display: none;
   height: 0;
@@ -51,7 +48,6 @@ audio:not([controls]) {
  * Address `[hidden]` styling not present in IE 8/9.
  * Hide the `template` element in IE, Safari, and Firefox < 22.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\0000351}}
 [hidden],
 template {
   display: none;
@@ -65,7 +61,6 @@ template {
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\0000366}}
 html {
   font-family: sans-serif;
   /* 1 */
@@ -78,7 +73,6 @@ html {
 /**
  * Remove default margin.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\0000376}}
 body {
   margin: 0;
 }
@@ -89,7 +83,6 @@ body {
 /**
  * Remove the gray background color from active links in IE 10.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\0000388}}
 a {
   background: transparent;
 }
@@ -97,7 +90,6 @@ a {
 /**
  * Address `outline` inconsistency between Chrome and other browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\0000396}}
 a:focus {
   outline: thin dotted;
 }
@@ -105,7 +97,6 @@ a:focus {
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003104}}
 a:active,
 a:hover {
   outline: 0;
@@ -118,7 +109,6 @@ a:hover {
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari 5, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003118}}
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -127,7 +117,6 @@ h1 {
 /**
  * Address styling not present in IE 8/9, Safari 5, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003127}}
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -135,7 +124,6 @@ abbr[title] {
 /**
  * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003135}}
 b,
 strong {
   font-weight: bold;
@@ -144,7 +132,6 @@ strong {
 /**
  * Address styling not present in Safari 5 and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003144}}
 dfn {
   font-style: italic;
 }
@@ -152,7 +139,6 @@ dfn {
 /**
  * Address differences between Firefox and other browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003152}}
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
@@ -162,7 +148,6 @@ hr {
 /**
  * Address styling not present in IE 8/9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003162}}
 mark {
   background: #ff0;
   color: #000;
@@ -171,7 +156,6 @@ mark {
 /**
  * Correct font family set oddly in Safari 5 and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003171}}
 code,
 kbd,
 pre,
@@ -183,7 +167,6 @@ samp {
 /**
  * Improve readability of pre-formatted text in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003183}}
 pre {
   white-space: pre-wrap;
 }
@@ -191,7 +174,6 @@ pre {
 /**
  * Set consistent quote types.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003191}}
 q {
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
@@ -199,7 +181,6 @@ q {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003199}}
 small {
   font-size: 80%;
 }
@@ -207,7 +188,6 @@ small {
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003207}}
 sub,
 sup {
   font-size: 75%;
@@ -216,12 +196,10 @@ sup {
   vertical-align: baseline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003215}}
 sup {
   top: -0.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003219}}
 sub {
   bottom: -0.25em;
 }
@@ -232,7 +210,6 @@ sub {
 /**
  * Remove border when inside `a` element in IE 8/9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003231}}
 img {
   border: 0;
 }
@@ -240,7 +217,6 @@ img {
 /**
  * Correct overflow displayed oddly in IE 9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003239}}
 svg:not(:root) {
   overflow: hidden;
 }
@@ -251,7 +227,6 @@ svg:not(:root) {
 /**
  * Address margin not present in IE 8/9 and Safari 5.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003251}}
 figure {
   margin: 0;
 }
@@ -262,7 +237,6 @@ figure {
 /**
  * Define consistent border, margin, and padding.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003263}}
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
@@ -273,7 +247,6 @@ fieldset {
  * 1. Correct `color` not being inherited in IE 8/9.
  * 2. Remove padding so people aren't caught out if they zero out fieldsets.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003274}}
 legend {
   border: 0;
   /* 1 */
@@ -286,7 +259,6 @@ legend {
  * 2. Correct font size not being inherited in all browsers.
  * 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003285}}
 button,
 input,
 select,
@@ -303,7 +275,6 @@ textarea {
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003299}}
 button,
 input {
   line-height: normal;
@@ -315,7 +286,6 @@ input {
  * Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+.
  * Correct `select` style inheritance in Firefox 4+ and Opera.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003311}}
 button,
 select {
   text-transform: none;
@@ -328,7 +298,6 @@ select {
  * 3. Improve usability and consistency of cursor style between image-type
  *    `input` and others.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003324}}
 button,
 html input[type="button"],
 input[type="reset"],
@@ -342,7 +311,6 @@ input[type="submit"] {
 /**
  * Re-set default cursor for disabled elements.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003336}}
 button[disabled],
 html input[disabled] {
   cursor: default;
@@ -352,7 +320,6 @@ html input[disabled] {
  * 1. Address box sizing set to `content-box` in IE 8/9/10.
  * 2. Remove excess padding in IE 8/9/10.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003346}}
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -366,7 +333,6 @@ input[type="radio"] {
  * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
  *    (include `-moz` to future-proof).
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003358}}
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -380,7 +346,6 @@ input[type="search"] {
  * Remove inner padding and search cancel button in Safari 5 and Chrome
  * on OS X.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003370}}
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
@@ -389,7 +354,6 @@ input[type="search"]::-webkit-search-decoration {
 /**
  * Remove inner padding and border in Firefox 4+.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003379}}
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
@@ -400,7 +364,6 @@ input::-moz-focus-inner {
  * 1. Remove default vertical scrollbar in IE 8/9.
  * 2. Improve readability and alignment in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003390}}
 textarea {
   overflow: auto;
   /* 1 */
@@ -414,7 +377,6 @@ textarea {
 /**
  * Remove most spacing between table cells.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/vendor\/_normalize\.scss}line{font-family:\00003403}}
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -428,7 +390,7 @@ table {
   font-weight: normal;
   font-style: normal;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000312}}
+
 [class^="icon-"], [class*=" icon-"] {
   font-family: 'icomoon';
   speak: none;
@@ -442,124 +404,103 @@ table {
   -moz-osx-font-smoothing: grayscale;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000326}}
 .icon-envelope-o:before {
   content: "\f003";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000329}}
 .icon-heart:before {
   content: "\f004";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000332}}
 .icon-star:before {
   content: "\f005";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000335}}
 .icon-star-o:before {
   content: "\f006";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000338}}
 .icon-map-marker:before {
   content: "\f041";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000341}}
 .icon-comment:before {
   content: "\f075";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000344}}
 .icon-heart-o:before {
   content: "\f08a";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000347}}
 .icon-twitter:before {
   content: "\f099";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000350}}
 .icon-facebook:before {
   content: "\f09a";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000353}}
 .icon-bars:before {
   content: "\f0c9";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000356}}
 .icon-envelope:before {
   content: "\f0e0";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000359}}
 .icon-quote-left:before {
   content: "\f10d";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000362}}
 .icon-quote-right:before {
   content: "\f10e";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000365}}
 .icon-calendar-o:before {
   content: "\f133";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000368}}
 .icon-thumbs-up:before {
   content: "\f164";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_icons\.scss}line{font-family:\0000371}}
 .icon-weibo:before {
   content: "\f18a";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_layout\.scss}line{font-family:\000031}}
 body {
-  background-color: #1a1a1a;
+  background-color: #222222;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\000033}}
 header {
   background-color: white;
   height: 55px;
   position: relative;
+  border-bottom: 1px solid black;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\000038}}
 header ul {
   list-style: none;
   margin: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\0000313}}
 header nav {
   max-height: 0;
   overflow: hidden;
   position: absolute;
   background-color: #2cd7e6;
-  top: 55px;
+  top: 56px;
   width: 100%;
+  -webkit-transition-property: max-height;
   -moz-transition-property: max-height;
   -o-transition-property: max-height;
-  -webkit-transition-property: max-height;
   transition-property: max-height;
+  -webkit-transition-duration: 0.7s;
   -moz-transition-duration: 0.7s;
   -o-transition-duration: 0.7s;
-  -webkit-transition-duration: 0.7s;
   transition-duration: 0.7s;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\0000325}}
 header nav ul {
   padding: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\0000329}}
 header nav ul li a {
   display: block;
   padding: 1em;
@@ -569,7 +510,6 @@ header nav ul li a {
   font-weight: bold;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\0000342}}
 #burger-nav {
   position: absolute;
   right: .3em;
@@ -582,26 +522,21 @@ header nav ul li a {
   text-align: center;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\0000355}}
 .burger-nav-active #burger-nav {
   background-color: black;
   color: white;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\0000360}}
 .burger-nav-active nav {
   display: block;
   max-height: 250px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\0000366}}
 .social-links {
   padding: 0.2em 0 0 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\0000368}}
 .social-links li {
   float: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/global\/_header\.scss}line{font-family:\0000370}}
 .social-links li a {
   text-decoration: none;
   font-size: 1.8em;
@@ -613,7 +548,165 @@ header nav ul li a {
   margin: 0.2em 0.1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/inetpub\/wwwroot\/itsreallyloudinhere\/scss\/style\.scss}line{font-family:\0000318}}
+#logo-header {
+  background-color: yellow;
+  padding-bottom: 40px;
+}
+#logo-header img {
+  width: 60%;
+  margin: 1em 20% 0 20%;
+}
+#logo-header p {
+  text-align: center;
+  padding: 20px 0 15px 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+a {
+  color: #ff3b8e;
+}
+
+main {
+  padding: 0 5% 0 5%;
+  margin: -35px 0 0 0;
+}
+main article {
+  background-color: black;
+  color: white;
+  padding: 15px;
+  margin: 0 0 20px 0;
+  overflow: hidden;
+}
+main article h2 {
+  margin: 0 0 10px 0;
+}
+main article h2 a {
+  text-decoration: none;
+}
+main article h2 a:hover {
+  text-decoration: underline;
+}
+main article h3 {
+  margin: 0;
+}
+main article time {
+  margin: 5px 0 10px 0;
+  display: block;
+}
+main article img {
+  width: 100%;
+}
+main article .button {
+  background-color: yellow;
+  color: black;
+  text-decoration: none;
+  padding: 5px;
+  float: right;
+  font-weight: bold;
+  padding: 8px;
+}
+main article .button:hover {
+  background-color: #2cd7e6;
+}
+
+aside {
+  background-color: #f7f7f7;
+  padding: 5px 5% 20px 5%;
+}
+aside h3 {
+  margin: 15px 0 15px 0;
+}
+aside h4 {
+  margin: 0;
+}
+aside p {
+  margin: 5px 0 0 0;
+}
+aside a {
+  text-decoration: none;
+}
+aside a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+#disqus_thread {
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/*.addthis_toolbox{
+	background-color:$black;
+	padding: 10px;
+}*/
+footer {
+  background-color: white;
+  overflow: hidden;
+  text-align: center;
+  border-top: 1px solid black;
+}
+footer ul.social-links {
+  margin: 0;
+}
+footer ul.social-links li {
+  list-style: none;
+  float: none;
+  display: inline-block;
+}
+
+#detail #logo-header {
+  overflow: hidden;
+}
+#detail #logo-header img {
+  float: left;
+  margin: 10px 0 10px 5%;
+  width: 30%;
+}
+#detail #logo-header p {
+  display: none;
+}
+
+fieldset {
+  border: none;
+}
+fieldset label {
+  display: none;
+}
+fieldset input[type='text'], fieldset input[type='email'], fieldset textarea {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+fieldset input[type='submit'] {
+  background-color: yellow;
+  color: black;
+  text-decoration: none;
+  padding: 5px;
+  border: none;
+  float: right;
+  font-weight: bold;
+  padding: 8px;
+}
+fieldset input[type='submit']:hover {
+  background-color: #2cd7e6;
+}
+fieldset textarea {
+  height: 100px;
+}
+fieldset ol {
+  margin: 0;
+  padding: 0;
+}
+fieldset ol li {
+  list-style: none;
+  margin: 0 0 20px 0;
+}
+
 .visuallyhidden {
   position: absolute;
   overflow: hidden;

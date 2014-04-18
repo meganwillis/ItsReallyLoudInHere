@@ -1,0 +1,37 @@
+fieldset{
+	border:none;
+	//padding:0;
+	label{
+		display:none;
+	}
+	input[type='text'],input[type='email'],textarea{
+		width:100%;
+		max-width:400px;
+		padding:10px;
+		@include box-sizing(border-box);
+	}
+	input[type='submit']{
+			background-color:$yellow;
+			color:$black;
+			text-decoration:none;
+			padding:5px;
+			border:none;
+			float:right;
+			font-weight:bold;
+			padding:8px;
+				&:hover{
+				background-color:$blue;
+			}
+	}
+	textarea{
+		height:100px;
+	}
+	ol{
+		margin:0;
+		padding:0;
+		li{
+			list-style:none;
+			margin:0 0 20px 0;
+		}
+	}
+}
