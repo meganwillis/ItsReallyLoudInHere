@@ -4,6 +4,12 @@ a{
 main{
 	padding:0 5% 0 5%;
 	margin: -35px 0 0 0;
+	section > h1{
+		background-color:$black;
+		padding:15px;
+		color:$white;
+		margin:0;
+	}
 
 	article{
 		background-color:$black;
@@ -11,6 +17,9 @@ main{
 		padding:15px;
 		margin:0 0 20px 0;
 		overflow:hidden;
+		h1{
+			margin-top:0;
+		}
 		h2{
 			margin:0 0 10px 0;
 			a{
@@ -65,6 +74,24 @@ main{
 
 		}
 	}
+#archive{
+	main{
+		article{
+			h2{
+				font-size:1.25em;
+			}
+			margin:0;
+			border-bottom:1px solid $lightgrey;
+			time{
+				font-size:.9em;
+			}
+			&:last-child{
+				border-bottom:none;
+				margin-bottom:50px;
+			}
+		}
+	}
+}
 
 #disqus_thread{
 	background-color:$white;

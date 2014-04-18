@@ -571,12 +571,21 @@ main {
   padding: 0 5% 0 5%;
   margin: -35px 0 0 0;
 }
+main section > h1 {
+  background-color: black;
+  padding: 15px;
+  color: white;
+  margin: 0;
+}
 main article {
   background-color: black;
   color: white;
   padding: 15px;
   margin: 0 0 20px 0;
   overflow: hidden;
+}
+main article h1 {
+  margin-top: 0;
 }
 main article h2 {
   margin: 0 0 10px 0;
@@ -631,6 +640,21 @@ aside a:hover {
   color: black;
 }
 
+#archive main article {
+  margin: 0;
+  border-bottom: 1px solid #f7f7f7;
+}
+#archive main article h2 {
+  font-size: 1.25em;
+}
+#archive main article time {
+  font-size: .9em;
+}
+#archive main article:last-child {
+  border-bottom: none;
+  margin-bottom: 50px;
+}
+
 #disqus_thread {
   background-color: white;
   padding: 10px;
@@ -656,15 +680,15 @@ footer ul.social-links li {
   display: inline-block;
 }
 
-#detail #logo-header {
+#detail #logo-header, #archive #logo-header {
   overflow: hidden;
 }
-#detail #logo-header img {
+#detail #logo-header img, #archive #logo-header img {
   float: left;
   margin: 10px 0 10px 5%;
   width: 30%;
 }
-#detail #logo-header p {
+#detail #logo-header p, #archive #logo-header p {
   display: none;
 }
 
