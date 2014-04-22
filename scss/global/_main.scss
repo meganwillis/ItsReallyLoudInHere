@@ -4,6 +4,7 @@ a{
 main{
 	padding:0 5% 0 5%;
 	margin: -35px 0 0 0;
+	overflow:hidden;
 	section > h1{
 		background-color:$black;
 		padding:15px;
@@ -51,6 +52,24 @@ main{
 				background-color:$blue;
 				}
 		}
+		@media all and (min-width: $phablet){
+			&.post{
+				width:49%;
+				float:left;
+				@include box-sizing(border-box);
+				margin:0 2% 20px 0;
+
+				&:nth-child(odd){
+					margin-right:0;
+				}
+			}
+		}
+	}
+		@media all and (min-width: $desklet){
+		float:left;
+		width:70%;
+		padding-right:2%;
+		@include box-sizing(border-box);
 	}
 }
 	aside{
@@ -71,7 +90,21 @@ main{
 				text-decoration:underline;
 				color:$black;
 				}
+		}
+		@media all and (min-width:$desklet){
+			float:right;
+			width:30%;
+			margin:-35px 0 0 0;
+			padding:0 5% 0 0;
+			background-color:transparent;
+			color:$white;
+			@include box-sizing(border-box);
 
+			article{
+				background-color:$black;
+				padding:5px 5% 20px 5%;
+				margin-bottom:20px;
+			}
 		}
 	}
 #archive{
@@ -97,6 +130,16 @@ main{
 	background-color:$white;
 	padding:10px;
 	margin-bottom:20px;
+}
+
+#twitter-feed{
+	background-color:transparent;
+	padding-left:0;
+	padding-right:0;
+	display:none;
+	@media all and (min-width:$desklet){
+		display:block;
+	}
 }
 
 /*.addthis_toolbox{

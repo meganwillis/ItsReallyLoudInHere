@@ -6,3 +6,8 @@ $black90: #222;//#1A1A1A;
 $blue: #2CD7E6;
 $lightgrey: #f7f7f7;
 $pink: #ff3b8e;
+
+/* Breakpoints */
+$phablet: (620/16) * 1em;
+$desklet: (890/16) * 1em;
+$superdesk: (1100/16) * 1em;
